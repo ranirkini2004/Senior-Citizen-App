@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147469684705-lrej83ctdi2kh0rvk7r84hisojo2t3ti.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147469684705-lrej83ctdi2kh0rvk7r84hisojo2t3ti</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>147469684705-nfiub3nc5j46qlgo7ikm6uuu1h95knop.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDHRqJEw4DwE1WCqfS5QBbZ2odrWwkMLs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147469684705</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.healthcareduplicate</string>
+	<key>PROJECT_ID</key>
+	<string>test-39f73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-39f73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147469684705:ios:de9f94fd10f5b992510ca0</string>
+	<key>DATABASE_URL</key>
+	<string>https://test-39f73-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
